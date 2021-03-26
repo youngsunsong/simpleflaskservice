@@ -12,7 +12,6 @@ Endpoints:
 /alta3
 /talkingparrot
    ?say=Hello%20Parrot (say=string)
-   
 """
 
 import os
